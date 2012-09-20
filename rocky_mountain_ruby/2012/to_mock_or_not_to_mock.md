@@ -1,14 +1,18 @@
 # To Mock or Not to Mock
 
-  by Justin Searls
+## Justin Searls
+
+  - [@searls](http://twitter.com/searls)
+  - [Github](https://github.com/searls)
+  - [http://about.me/searls](http://about.me/searls)
 
 
 ## Different kinds of tests
 
 
-  Intetration test
-  Unit test
-  Isolation tset
+  - Intetration test
+  - Unit test
+  - Isolation tset
 
 
 ## Types of replacement objects
@@ -69,6 +73,7 @@
 ## The GOOS Way
 
   GOOS: Growing Object-Oriented Software
+
   - isolution tests to drive design
   - end-to-end tests to prove it works
 
@@ -78,7 +83,7 @@
   1. employ test doubles in our Rails integration tests
   2. write PORO
 
-Resources
+## Resources
 
   - [a post on Ruby test double tools](http://is.gd/rubymocks)
   - [test double lib](http://is.gd/gimmeruby)

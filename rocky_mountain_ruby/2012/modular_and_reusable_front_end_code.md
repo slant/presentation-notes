@@ -1,6 +1,9 @@
 # Modular & Reusable Front-end Code
 
-  Roy Tomeij
+## Roy Tomeij
+
+  - [@roy](http://twitter.com/roy)
+  - [http://roytomeij.com](http://roytomeij.com)
 
 
 ## Truth
@@ -64,12 +67,18 @@
 
 ## HTML5 data attributes
 
-    <
+    # HTML
+    <span data-gender="male" class="father">Bob</span>
+    <span data-gender="female" class="mother">Jennifer</span>
 
-
+    # CSS
+    span[data-gender="male"] {
+      background: blue;
+    }
 
 
 ## Thoughts
 
   The idea of approaching our back-end code like solid, reusable front-end code is a very interesting concept. The ability to re-use decoupled code across multiple use-cases, expected or not, is extremely effective.
+
 
