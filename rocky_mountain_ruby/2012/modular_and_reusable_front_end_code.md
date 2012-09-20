@@ -17,8 +17,8 @@
   - Class names start with mod-
   - Use generic class names
   - Use shallow selectors
-    - Do 'p.note'
-    - Do not 'table#box div p.note'
+    - Do ```p.note```
+    - Do not ```table#box div p.note```
 
 ## Nested modules
 
