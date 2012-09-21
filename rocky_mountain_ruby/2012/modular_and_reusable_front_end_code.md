@@ -17,8 +17,8 @@
   - Class names start with mod-
   - Use generic class names
   - Use shallow selectors
-    - Do 'p.note'
-    - Do not 'table#box div p.note'
+    - Do ```p.note```
+    - Do not ```table#box div p.note```
 
 ## Nested modules
 
@@ -47,9 +47,9 @@
 
 ## Media
 
-  .mod-articles
-    @media (max-width: 400px)
-      background: green
+    .mod-articles
+      @media (max-width: 400px)
+        background: green
 
 
 ## This is not OOCSS or SMACSS
@@ -80,5 +80,3 @@
 ## Thoughts
 
   The idea of approaching our back-end code like solid, reusable front-end code is a very interesting concept. The ability to re-use decoupled code across multiple use-cases, expected or not, is extremely effective.
-
-
